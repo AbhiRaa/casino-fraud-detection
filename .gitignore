@@ -1,0 +1,101 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+casino_env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Model files
+*.pt
+*.onnx
+*.pth
+yolov8n.pt
+
+# InsightFace models
+.insightface/
+
+# Logs and databases
+*.log
+*.db
+*.sqlite3
+
+# Temporary files
+*.tmp
+*.temp
+
+# Audio files (optional - uncomment if you don't want to track audio)
+# *.mp3
+# *.wav
+
+# Large datasets (uncomment if you have large image datasets)
+# *.jpg
+# *.jpeg
+# *.png
+# *.bmp
+# *.tiff
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Profiling data
+.prof
