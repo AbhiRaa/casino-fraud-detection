@@ -68,6 +68,11 @@ yolov8n.pt
 # *.mp3
 # *.wav
 
+# Private test data (local only)
+sample_faces/
+watchlist.json
+detections.csv
+
 # Large datasets (uncomment if you have large image datasets)
 # *.jpg
 # *.jpeg
