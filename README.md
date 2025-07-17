@@ -235,7 +235,3 @@ casino_proto/
 - Advanced analytics and reporting
 - Mobile app integration
 - Cloud deployment options
-
-## License
-
-This prototype is for educational and demonstration purposes. Ensure compliance with local privacy laws and regulations before deploying in production environments.
